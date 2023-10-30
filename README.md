@@ -11,3 +11,9 @@ vagrant podstawy
 -po co 
 -zastosowanie
 python env
+
+python powtórka 
+klasy 
+obiekty 
+funcje 
+self
