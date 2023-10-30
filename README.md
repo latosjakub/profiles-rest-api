@@ -8,3 +8,6 @@ zasada działania ssh
 generowanie ssh
 łączenie ssh 
 vagrant podstawy
+-po co 
+-zastosowanie
+python env
