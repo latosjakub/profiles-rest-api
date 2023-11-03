@@ -17,3 +17,9 @@ klasy
 obiekty 
 funcje 
 self
+
+HTTP response status codes
+API overall 
+
+serializer
+atoryzacja vs autentykacja
